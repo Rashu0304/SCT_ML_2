@@ -1,4 +1,4 @@
-# 🎯 SCT_ML_2 - Customer Segmentation Using K-Means Clustering
+# Customer Segmentation Using K-Means Clustering
 
 ## 💡 Project Overview
 
